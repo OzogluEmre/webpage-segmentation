@@ -1,0 +1,5 @@
+255 255 255	Background
+255 0 0		Image
+0 255 0		Text
+0 0 255		FormElement
+255 0 255	Container
